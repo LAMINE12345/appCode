@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  @keyframes progress {
+    from { width: 0%; }
+    to { width: 100%; }
+  }
+}

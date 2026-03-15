@@ -1,0 +1,5 @@
+{
+  "name": "AI App Builder",
+  "description": "Un système de création d'applications générées par l'IA, similaire à Google AI Studio Build.",
+  "requestFramePermissions": []
+}
